@@ -2,7 +2,9 @@
 
 **Hikari** is a lightweight, premium macOS menu bar application designed for advanced display control, specifically optimized for Apple Silicon (M1/M2/M3) and modern Intel Macs.
 
-![Hikari Preview](https://ibb.co/rfGqj4yJ)
+<p align="center">
+  <img src="https://i.ibb.co/3YyV3BhH/Screenshot-2026-01-17-at-21-00-33.png" alt="Hikari Preview" width="600">
+</p>
 
 ## Key Features
 
@@ -21,7 +23,7 @@
 
 ## Installation
 
-1.  Go to the [Releases](https://github.com/USER_NAME/Hikari/releases) page.
+1.  Go to the [Releases](https://github.com/huyohung/Hikari/releases) page.
 2.  Download the latest `Hikari.zip` (or `.dmg` if available).
 3.  Drag `Hikari.app` to your `/Applications` folder.
 4.  Open `Hikari.app`.
