@@ -23,7 +23,7 @@
 
 ## Installation
 
-1.  Go to the [Releases](https://github.com/huyohung/Hikari/releases) page.
+1.  Go to the [Releases](https://github.com/huyhung98/hikari/releases) page.
 2.  Download the latest `Hikari.zip` (or `.dmg` if available).
 3.  Drag `Hikari.app` to your `/Applications` folder.
 4.  Open `Hikari.app`.
